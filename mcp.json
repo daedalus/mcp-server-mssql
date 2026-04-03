@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-server-mssql": {
+      "command": "mcp-server-mssql",
+      "env": {}
+    }
+  }
+}
